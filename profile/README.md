@@ -8,7 +8,7 @@
 
 ## 📊 주요 프로젝트
 
-### [백화점 방문 패턴 분석 및 예측 시스템](https://github.com/Snowflake x Streamlit Hackathon/Final_Result)
+### [백화점 방문 패턴 분석 및 예측 시스템](https://github.com/SnowflakeXStreamlit-Hackathon/Final_Result)
 
 서울 주요 백화점(신세계 강남, 더현대 서울, 롯데 본점)의 방문 패턴을 분석하고 예측하는 시스템입니다. LOPLAT에서 제공한 데이터를 활용하여 다음과 같은 기능을 구현했습니다:
 

@@ -1,4 +1,4 @@
-# 스노우플레이크 x 스트림릿 해커톤 프로젝트
+# 2025 스노우플레이크 x 스트림릿 해커톤 프로젝트
 
 ![Snowflake x Streamlit Hackathon](https://img.shields.io/badge/Snowflake%20x%20Streamlit-Hackathon-blue)
 
